@@ -29,7 +29,17 @@
  - [ ] Day 27 - Array Yapısına Öğe Eklemek ve Çıkarmak
  - [ ] Day 28 - Çok Kullanılan Array Dizi Metotları
  - [ ] Day 29 - For Döngüsü Kullanımı
--  [ ] Day 30 - ******************
+-  [ ] Day 30 - Break ve Continue Kullanımı
+-  [ ] Day 31 - While Döngüsü
+-  [ ] Day 32 - forEach'la Array İçerisindeki Öğeleri Çağırma
+-  [ ] Day 33 - Filter ile Array içerisinde Sadece İstenilen Bilgilerin Yeni Listeye Eklenmesi
+-  [ ] Day 34 - Map ile Array İçerisindeki Yapının Değiştirilerek Yeni Listeye Eklenmesi
+-  [ ] Day 35 - Object(Nesne) Nedir? Nasıl Oluşturulu
+-  [ ] Day 36 - Object Anahtar(Key) ve Değer(Value) Yapısının Kullanımı/Erişimi
+-  [ ] Day 37 - Nesnelere Nasıl Metot Ekleriz?
+-  [ ] Day 38 - Object ve Array Desturucturing Kullanımı
+-  [ ] Day 39 - Try ve Catch Kullanımı
+-  [ ] Day 40 - Fetch API ile Çalışmak
 
 
 
